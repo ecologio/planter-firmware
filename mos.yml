@@ -32,8 +32,6 @@ libs:
   - origin: https://github.com/mongoose-os-libs/adc
   - origin: https://github.com/mongoose-os-libs/arduino-onewire
 
-    # ecolog.io libs
-  - origin: https://github.com/ecologio/planter-firmware
 tags:
   - mobile
   - cloud
